@@ -3,18 +3,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
+    💻 Programming languages • LUA • Python • C# • JS • HTML
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    🎮 Music • Games • Anime • Code
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
-</div>
+[![](https://media.discordapp.net/attachments/1123200947074637874/1212042170089865256/1024px-Facebook_Logo_28201929.png?ex=65f0653c&is=65ddf03c&hm=bb63a346d06b968d2ee83add8f294a846323e3328ddce77d0ce72e7c9e96a1fa&=&format=webp&quality=lossless&width=350&height=350)](http://faceboook.com/AnSit.Developers)
+[![](https://media.discordapp.net/attachments/1123200947074637874/1212042355662651452/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png?ex=65f06568&is=65ddf068&hm=c9d8f0ab45626c52818960c4d0d42593d5f651713e5555b805d9d13e30d7b5fd&=&format=webp&quality=lossless&width=397&height=397)](https://discord.com/users/940862803802210334)
