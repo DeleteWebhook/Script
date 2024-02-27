@@ -11,5 +11,5 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![]([https://media.discordapp.net/attachments/1123200947074637874/1212042170089865256/1024px-Facebook_Logo_28201929.png?ex=65f0653c&is=65ddf03c&hm=bb63a346d06b968d2ee83add8f294a846323e3328ddce77d0ce72e7c9e96a1fa&=&format=webp&quality=lossless&width=40&height=40)](http://facebook.com/AnSit.Developers)
-[![]([)](https://discord.com/users/940862803802210334)
+[![](https://media.discordapp.net/attachments/1123200947074637874/1212042170089865256/1024px-Facebook_Logo_28201929.png?ex=65f0653c&is=65ddf03c&hm=bb63a346d06b968d2ee83add8f294a846323e3328ddce77d0ce72e7c9e96a1fa&=&format=webp&quality=lossless&width=40&height=40)](http://facebook.com/AnSit.Developers)
+[![](https://media.discordapp.net/attachments/1123200947074637874/1212044714770038794/discord-v2.png?ex=65f0679a&is=65ddf29a&hm=af924614657f723eef9c34cbdd654002c649397fbec60ca3bf065ab69449e031&=&format=webp&quality=lossless&width=40&height=40)](https://discord.com/users/940862803802210334)
