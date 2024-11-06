@@ -52,7 +52,7 @@ def buff_follow(username):
                 data = '{"google_token":"t","token":"'+token+'","data":"'+data_follow+'","type":"follow"}'
                 send_follow = requests.post('https://tikfollowers.com/api/free/send', headers=headers, data=data).json()
                 if send_follow.get('o') == 'Success!' and send_follow.get('success') and send_follow.get('type') == 'success':
-                    print(f'{chars} Tăng Follow Tik Tok Thành Công cho tài khoản \033[1;33m@@{username}\033[1;37m\033[1m')
+                    print(f'{chars} Tăng Follow Tik Tok Thành Công cho tài khoản \033[1;33m@{username}\033[1;37m\033[1m')
                 elif send_follow.get('o') == 'Oops...' and not send_follow.get('success') and send_follow.get('type') == 'info':
                     try:
                         thoigian = send_follow['message'].split('You need to wait for a new transaction. : ')[1].split('.')[0]
